@@ -4,6 +4,7 @@ This repo contains an exercise intended for Front-End Engineers.
 ## Instructions
 1. Click "Use this template" to create a copy of this repository in your personal github account.
 1. Using technology of your choice, complete [the assignment](./Assignment.md).
+    * Our preference would be to see this in [React](https://reactjs.org/) with the UI implemented using [MUI](https://mui.com/)
 1. Update this README with
     * a `How-To` section containing any instructions needed to run/access your system.
     * an `Assumptions` section containing documentation on any assumptions made while interpreting the requirements.
